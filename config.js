@@ -33,10 +33,6 @@ const config = {
         "text": "Photos"
       },
       {
-        "icon": "fas fa-link",
-        "text": "Property Listing URL"
-      },
-      {
         "icon": "fas fa-chart-bar",
         "text": "On-Market Comparables"
       },
@@ -45,8 +41,8 @@ const config = {
         "text": "Video Tour"
       },
       {
-        "icon": "fas fa-vr-cardboard",
-        "text": "Enter a $20 gift card Giveaway to OMG Ice Cream"
+        "icon": "fas fa-gift",
+        "text": "Just by Signing In, you'll enter a draw to win a $20 gift card for OMG Ice Cream, the best place in town!"
       }
     ]
   },
